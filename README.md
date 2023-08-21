@@ -1,2 +1,2 @@
 # nike-vault
-Nike clone website built using Tailwind CSS and JavaScript
+Nike clone website built using Tailwind CSS and Vite
